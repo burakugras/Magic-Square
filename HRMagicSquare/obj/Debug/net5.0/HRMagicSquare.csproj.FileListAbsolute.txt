@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\bin\Debug\net5.0\HRMagicSquare.exe
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\bin\Debug\net5.0\HRMagicSquare.deps.json
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\bin\Debug\net5.0\HRMagicSquare.runtimeconfig.json
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\bin\Debug\net5.0\HRMagicSquare.runtimeconfig.dev.json
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\bin\Debug\net5.0\HRMagicSquare.dll
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\bin\Debug\net5.0\ref\HRMagicSquare.dll
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\bin\Debug\net5.0\HRMagicSquare.pdb
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\obj\Debug\net5.0\HRMagicSquare.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\obj\Debug\net5.0\HRMagicSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\obj\Debug\net5.0\HRMagicSquare.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\obj\Debug\net5.0\HRMagicSquare.AssemblyInfo.cs
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\obj\Debug\net5.0\HRMagicSquare.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\obj\Debug\net5.0\HRMagicSquare.dll
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\obj\Debug\net5.0\ref\HRMagicSquare.dll
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\obj\Debug\net5.0\HRMagicSquare.pdb
+C:\Users\PC\source\repos\HackerRankSolutions\HRMagicSquare\obj\Debug\net5.0\HRMagicSquare.genruntimeconfig.cache
